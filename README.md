@@ -1,8 +1,12 @@
+<!-- ![Dashboard Preview](client/src/assets/under-construction-512.png) -->
+
+<p align="center">
+  <img src="client/src/assets/under-construction-512.png" alt="Under Construction" width="512">
+</p>
+
 # FootyStats Pro ⚽️
 
 FootyStats Pro is a modern, high-performance dashboard for football statistics and betting insights. It synchronizes real-time match data from top European 🇮🇹🇪🇸🇫🇷🇩🇪🏴󠁧󠁢󠁥󠁮󠁧󠁿 leagues and the Turkish 🇹🇷 Süper Lig using the API-Football (RapidAPI) integration.
-
-![Dashboard Preview](client/src/assets/hero.png)
 
 ## 🚀 Features
 
