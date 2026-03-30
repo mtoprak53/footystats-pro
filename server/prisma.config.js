@@ -1,0 +1,1 @@
+module.exports = { datasource: { url: 'postgresql://postgres:password123@db:5432/footy_stats_db?schema=public' } };
